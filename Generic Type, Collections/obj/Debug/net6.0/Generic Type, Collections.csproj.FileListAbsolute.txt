@@ -1,0 +1,15 @@
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\bin\Debug\net6.0\Generic Type, Collections.exe
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\bin\Debug\net6.0\Generic Type, Collections.deps.json
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\bin\Debug\net6.0\Generic Type, Collections.runtimeconfig.json
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\bin\Debug\net6.0\Generic Type, Collections.dll
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\bin\Debug\net6.0\Generic Type, Collections.pdb
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.csproj.AssemblyReference.cache
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.AssemblyInfoInputs.cache
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.AssemblyInfo.cs
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.dll
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\refint\Generic Type, Collections.dll
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.pdb
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\Generic Type, Collections.genruntimeconfig.cache
+C:\Users\Alber\Desktop\pass\Generic Type, Collections\Generic Type, Collections\obj\Debug\net6.0\ref\Generic Type, Collections.dll
